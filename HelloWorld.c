@@ -9,6 +9,6 @@ const char* greetings()
 int main()
 { 
     // Displays the string inside quotations
-    printf("C Programming");
+    printf("Hello friend /n");
     return 0;
 }
